@@ -1,4 +1,4 @@
-# Ollama Running of AI Models in VMware ESX
+# Ollama AI Models in VMware ESX
 
 ## Resources
 
