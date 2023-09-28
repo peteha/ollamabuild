@@ -3,7 +3,7 @@
 ## Resources
 
 - ollama - https://ollama.ai
-- Nvidia RTXxxxx Crad - Recommended 12GB+
+- Nvidia RTXxxxx - Recommended 12GB+
 - vSphere ESXi, 8.0.1, 22088125
 
 Running on Ubuntu 22.04
