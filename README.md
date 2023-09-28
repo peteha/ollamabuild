@@ -163,3 +163,7 @@ Netdata showing GPU usage:
 ![Netdata Performance][img]
 
 [img]: images/4.png
+
+Sources:
+
+https://www.youtube.com/@baherelnaggar9278
