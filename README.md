@@ -1,4 +1,4 @@
-# Simple Running of AI Models VMware
+# Ollama Running of AI Models in VMware ESX
 
 ## Resources
 
